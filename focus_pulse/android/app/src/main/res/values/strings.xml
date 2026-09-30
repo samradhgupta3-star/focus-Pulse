@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FocusPulse</string>
+    <string name="accessibility_service_description">FocusPulse uses accessibility features to monitor distracting web domains, YouTube Shorts, and blocked apps during your focus sessions.</string>
+    <string name="device_admin_description">FocusPulse Device Admin protects active deep focus sessions from being force-stopped or prematurely removed.</string>
+</resources>
